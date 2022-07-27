@@ -10,5 +10,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
+#新增功能
+預計將彈窗廣告新增至 : https://github.com/AnsonLoHK/reactjs-regist-page-mobile-and-web-version
+
 描述:
 特定手機模式下會有一些跑版，但大致功能正常。
